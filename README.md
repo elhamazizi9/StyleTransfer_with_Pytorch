@@ -2,7 +2,7 @@
 
 
 Neural Style Transfer (NST) refers to a class of software algorithms that manipulate digital images, or videos, in order to adopt the appearance or visual style of another image. NST is an example of image stylization.
-In this project I used two pictures which I called content and styel images to produce a target image by PyTorch.
+In this project I used two pictures which I called content and style images to produce a target image by PyTorch.
 
 
 
